@@ -23,5 +23,8 @@ Berisi Kumpulan tugasPBO
  
  - Membuka project yang sudah di-clone di command prompt
  - Merubah file
- - Mengirim file ke GitHub
+ - Mengirim file ke GitH ub
+ - Merubah di github
+ - Mem-pull di lokal
+ 
  --------------- The End ------------------

@@ -17,3 +17,6 @@
 # 6. Lalu, setelah itu, ditambah lagi keterangan file README.md-nya
 # 7. Terakhir, commit, cek status, push github hehe.
 # 8. Perubahan Kedua dari re-commit, ada di bawah.
+
+# --------------- Perubahan Terakhir -------
+# --------------- The End ------------------

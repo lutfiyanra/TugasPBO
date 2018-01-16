@@ -26,5 +26,10 @@ Berisi Kumpulan tugasPBO
  - Mengirim file ke GitH ub
  - Merubah di github
  - Mem-pull di lokal
+
+ ## Kesimpulan
+ 
+ - Dengan Git dan Github, kode akan aman dari harddisk rusak
+ - Memiliki repositori github yang public, akan menjadikan repositori tsb sbg portofolio
  
  --------------- The End ------------------

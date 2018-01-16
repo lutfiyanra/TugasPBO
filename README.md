@@ -42,5 +42,9 @@ Berisi Kumpulan tugasPBO
  - Meng-commit kode
  - Meng-commit kode, dan mereview perubahan pada file terlebih dahulu
  - Mem-push branch tersebut
-  
+ 
+ ## Instalasi Git
+ - Menggunakan linux, cukup dengan apt install git
+ - Menggunakan windows, dengan mendownload git di git-scm.com/downloads
+ 
  --------------- The End ------------------

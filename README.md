@@ -34,7 +34,7 @@ Berisi Kumpulan tugasPBO
  
  ## Menggunakan Git dalam Tim
  
- - Pastikan Menggunakan pycharm terkini, download di situsnya langsung
+ - Pastikan Menggunakan pycharm terkini, download di situsnya langsung, di http://jetbrains.com
  - Mulai bekerja dengan melihat ke issue tracker
  - Bekerja tidak pada master, namun pada branch tersendiri
  - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit) 

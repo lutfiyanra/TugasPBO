@@ -27,4 +27,13 @@ Berisi Kumpulan tugasPBO
  - Merubah di github
  - Mem-pull di lokal
  
+ ## Menggunakan Git dalam Tim
+ 
+ - Mulai bekerja dengan melihat ke issue tracker
+ - Bekerja tidak pada master, namun pada branch tersendiri
+ - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit) 
+ - Merubah kode pada branch tersebut
+ - Meng-commit kode
+ - Mem-push branch tersebut
+ 
  --------------- The End ------------------

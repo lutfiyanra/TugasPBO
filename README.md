@@ -32,4 +32,14 @@ Berisi Kumpulan tugasPBO
  - Dengan Git dan Github, kode akan aman dari harddisk rusak
  - Memiliki repositori github yang public, akan menjadikan repositori tsb sbg portofolio
  
+ ## Menggunakan Git dalam Tim
+ 
+ - Mulai bekerja dengan melihat ke issue tracker
+ - Bekerja tidak pada master, namun pada branch tersendiri
+ - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit) 
+ - Merubah kode pada branch tersebut
+ - Meng-commit kode
+ - Meng-commit kode, dan mereview perubahan pada file terlebih dahulu
+ - Mem-push branch tersebut
+  
  --------------- The End ------------------
